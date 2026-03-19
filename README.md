@@ -8,3 +8,8 @@ My frontend and programming projects including ATM Simulation, Color Generator a
 ## Image Encryption & Decryption (Java)
 - GUI-based application using Java Swing
 - Encrypts and decrypts images
+
+## Color Generator Website
+- Built using HTML, CSS, JavaScript
+- Generates random colors with hex code
+- Interactive DOM manipulation
